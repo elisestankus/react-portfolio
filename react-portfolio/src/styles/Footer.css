@@ -1,0 +1,19 @@
+.footer {
+    background: rgb(96, 155, 114);
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+h3 {
+    padding: 0px;
+    margin-left: 5px;
+    color: whitesmoke;
+    font-size: 1.5rem;
+    text-align: center;
+
+}

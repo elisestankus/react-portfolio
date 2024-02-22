@@ -1,0 +1,13 @@
+.header {
+    background: rgb(96, 155, 114);
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    padding: 0px;
+    margin-left: 5px;
+    color: whitesmoke;
+    font-size: 3rem;
+}
