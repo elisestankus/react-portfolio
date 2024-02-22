@@ -4,3 +4,10 @@
     margin: 0px;
     padding: 0px;
 }
+
+h1 {
+    padding: 0px;
+    margin-left: 5px;
+    color: whitesmoke;
+    font-size: 3rem;
+}
